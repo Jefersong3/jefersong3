@@ -2,7 +2,7 @@
  ### Olá! Eu sou Jeferson Luiz, seja bem vindo ao meu perfil. 👋
 
 - Atualmente trabalho como Analista de Suporte de TI
-- Formado em Jogos Digitais, e me aprofundando na linguagem C# e Unity3D Game Engine
+- Formado em Jogos Digitais E Atualmente cursando Superior em Redes de Computador
 
  ##
 
