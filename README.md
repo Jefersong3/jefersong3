@@ -2,7 +2,7 @@
  ### Olá! Eu sou Jeferson Luiz, seja bem vindo ao meu perfil. 👋
 
 - Atualmente trabalho como Analista de Suporte de TI
-- Formado em Jogos Digitais, Cursando Redes de Computadores
+- Cursando Redes de Computadores
 
  ##
 
@@ -14,7 +14,7 @@
  
  
 <div align="center" style="display: inline_block"><br>
-  <h3>Tecnologias que já utilizei<h3>
+  <h3>Tecnologias que utilizo<h3>
   <img align="center" alt="Jeferson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jeferson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jeferson-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
