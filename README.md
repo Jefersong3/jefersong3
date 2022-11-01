@@ -14,7 +14,7 @@
  
  
 <div align="center" style="display: inline_block"><br>
-  <h3>Tecnologias que utilizo no meu dia a dia<h3>
+  <h3>Tecnologias que já utilizei<h3>
   <img align="center" alt="Jeferson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jeferson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jeferson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
