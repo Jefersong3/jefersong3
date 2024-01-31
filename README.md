@@ -1,7 +1,7 @@
 
  ### Hello World ! 👋
 
-- Atualmente trabalho como Analista de Infraestrutura Cloud
+- Analista de Infraestrutura Cloud
 - Graduado em Redes de Computadores
 - Cursando Pós em Cloud Computing
 
