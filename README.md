@@ -3,7 +3,7 @@
 
 - Analista de Infraestrutura Cloud
 - Graduado em Redes de Computadores
-- Cursando Pós em Cloud Computing
+- Pós em Cloud Computing
 
  ##
 
