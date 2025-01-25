@@ -40,8 +40,4 @@
   <a href="https://www.instagram.com/jefersonluizg3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
-  ##
-  
-  ![Snake animation](https://github.com/Jefersong3/Jefersong3/blob/output/github-contribution-grid-snake.svg)
-  
   
